@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarashzeinhom
 - 👀 I’m interested in HTML5,CSS3,JS & Python
 - 🌱 I’m currently learning  Webdevelopment
-- 📫 How to reach me omar.ashraf.zeinhom@outlook.com
+- 📫 How to reach me omar.ashraf.zeinhom@hotmail.com
 
 <!---
 omarashzeinhom/omarashzeinhom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
