@@ -17,9 +17,10 @@
 
 
 #### Contact Me 📞
-- ![linkedin-image][linkedin-image](https://www.linkedin.com/in/omar-abdelrahman-7602a9126/)
-- ![upwork-image][upwork-image](https://www.upwork.com/freelancers/~016ff0a16ccc85d242)
-- ![dribbble-image][dribbble-image](https://dribbble.com/omarzeinhom)
+
+- [![LinkedIn][linkedin-image]][linkedin-url]
+- [![upwork-image][upwork-image]][upwork-url]
+- [![dribbble-image][dribbble-image]][dribble-url]
 
 <!---
 omarashzeinhom/omarashzeinhom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +34,13 @@ You can click the Preview link to take a look at your changes.
 
 [intro-image]: img/gifaboutme.gif
 [gif-wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif
+<!-- urls -->
+[linkedin-url]:https://www.linkedin.com/in/omar-abdelrahman-7602a9126/)
+[dribble-url]:https://dribbble.com/omarzeinhom
+[upwork-url]:https://www.upwork.com/freelancers/~016ff0a16ccc85d242
+<!-- icon images -->
 [linkedin-image]: img/linkedin_11601.png
 [dribbble-image]: img/dribble_logo_icon_154493.png
 [upwork-image]:  img/upwork_94116.png
+
 
