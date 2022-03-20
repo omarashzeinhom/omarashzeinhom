@@ -17,7 +17,7 @@
 
 
 #### Contact Me 📞
-- [![LinkedIn][linkedin-shield]][linkedin-url]
+- [![LinkedIn][linkedin-image]][linkedin-url]
 - ![upwork-image][upwork-image]
 - ![dribbble-image][dribbble-image]
 
