@@ -35,9 +35,9 @@ You can click the Preview link to take a look at your changes.
 [intro-image]: img/gifaboutme.gif
 [gif-wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif
 <!-- urls -->
-[linkedin-url]:https://www.linkedin.com/in/omar-abdelrahman-7602a9126/)
-[dribble-url]:https://dribbble.com/omarzeinhom
-[upwork-url]:https://www.upwork.com/freelancers/~016ff0a16ccc85d242
+[linkedin-url]: https://www.linkedin.com/in/omar-abdelrahman-7602a9126/)
+[dribble-url]: https://dribbble.com/omarzeinhom
+[upwork-url]: https://www.upwork.com/freelancers/~016ff0a16ccc85d242
 <!-- icon images -->
 [linkedin-image]: img/linkedin_11601.png
 [dribbble-image]: img/dribble_logo_icon_154493.png
