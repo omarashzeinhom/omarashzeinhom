@@ -17,10 +17,9 @@
 
 
 #### Contact Me 📞
-[![LinkedIn][linkedin-image]][linkedin-url]
-- ![LinkedIn][linkedin-image][linkedin-url]
-- ![upwork-image][upwork-image][upwork-url]
-- ![dribbble-image][dribbble-image][dribble-url]
+- [![LinkedIn][linkedin-shield]][linkedin-url]
+- ![upwork-image][upwork-image]
+- ![dribbble-image][dribbble-image]
 
 <!---
 omarashzeinhom/omarashzeinhom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
