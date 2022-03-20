@@ -3,7 +3,7 @@
 ![intro-image][intro-image]
 
 
-- ◾👋 Hi, I’m @omarashzeinhom From 🇪🇬
+- ◾{gifs/wave} Hi, I’m @omarashzeinhom From 🇪🇬
 - ◾ 👀 Im a full stack JS Developer
 - ◾ 📫 How to reach me https://omarabdelrahmanportfolio.netlify.app/
 
