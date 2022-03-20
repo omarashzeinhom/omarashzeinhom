@@ -1,6 +1,6 @@
 # 🦱 About Me 
 
-![intro-image][intro-image]]
+![intro-image][intro-image]
 
 
 - 👋 Hi, I’m @omarashzeinhom
