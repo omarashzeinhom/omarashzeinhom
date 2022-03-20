@@ -17,9 +17,9 @@
 
 
 #### Contact Me 📞
-![linkedin-image][linkedin-image](https://www.linkedin.com/in/omar-abdelrahman-7602a9126/)
-![upwork-image][upwork-image](https://www.upwork.com/freelancers/~016ff0a16ccc85d242)
-![dribbble-image][dribbble-image](https://dribbble.com/omarzeinhom)
+- ![linkedin-image][linkedin-image](https://www.linkedin.com/in/omar-abdelrahman-7602a9126/)
+- ![upwork-image][upwork-image](https://www.upwork.com/freelancers/~016ff0a16ccc85d242)
+- ![dribbble-image][dribbble-image](https://dribbble.com/omarzeinhom)
 
 <!---
 omarashzeinhom/omarashzeinhom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
