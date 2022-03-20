@@ -3,7 +3,7 @@
 ![intro-image][intro-image]
 
 
-- ◾{gifs/wave} Hi, I’m @omarashzeinhom From 🇪🇬
+- ◾![gif-wave][gif-wave] Hi, I’m @omarashzeinhom From 🇪🇬
 - ◾ 👀 Im a full stack JS Developer
 - ◾ 📫 How to reach me https://omarabdelrahmanportfolio.netlify.app/
 
@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [intro-image]: img/gifaboutme.gif
+[gif-wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif
