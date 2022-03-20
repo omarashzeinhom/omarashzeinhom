@@ -10,10 +10,10 @@
 
 ### Tech Stack 💻
 
-- ◾ 🔧 HTML5 
-- ◾ ⚒️ CSS3
-- ◾🔩 JavaScript 
-- ◾ MarkDown Language 
+- ◾ [html-icon][html-icon] HTML5 
+- ◾ [css-icon][css-icon] CSS3
+- ◾ [js-icon][js-icon] JavaScript 
+- ◾ [markdown-icon][markdown-icon] MarkDown Language 
 
 
 #### Contact Me 📞
@@ -41,5 +41,7 @@ You can click the Preview link to take a look at your changes.
 [linkedin-image]: img/linkedin_11601.png
 [dribbble-image]: img/dribble_logo_icon_154493.png
 [upwork-image]:  img/upwork_94116.png
-
-
+[css-icon]: img/icons8-css3-48.png
+[html-icon]: img/icons8-html-5-48.png
+[js-icon]: img/icons8-javascript-48.png
+[markdown-icon]: img/icons8-markdown-30.png
