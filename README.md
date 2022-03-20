@@ -17,7 +17,7 @@
 
 
 #### Contact Me 
-[linked-in-image][linked-in-image](https://www.linkedin.com/in/oabdelrahman/)
+![linkedin-image][linkedin-image](https://www.linkedin.com/in/oabdelrahman/)
 
 
 <!---
@@ -32,4 +32,4 @@ You can click the Preview link to take a look at your changes.
 
 [intro-image]: img/gifaboutme.gif
 [gif-wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif
-[linked-in-image]: img/linkedin.gif
+[linkedin-image]: img/linkedin.gif
