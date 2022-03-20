@@ -10,16 +10,16 @@
 
 ### Tech Stack 💻
 
-- ◾ ![html-icon][html-icon] HTML5 
-- ◾ ![css-icon][css-icon] CSS3
-- ◾ ![js-icon][js-icon] JavaScript 
-- ◾ ![markdown-icon][markdown-icon] MarkDown Language 
+- ◾![html-icon][html-icon] HTML5 ◾
+- ◾ ![css-icon][css-icon] CSS3◾
+- ◾![js-icon][js-icon] JavaScript ◾
+- ◾![markdown-icon][markdown-icon] MarkDown Language ◾
 
 
 #### Contact Me 📞
-* ◾ [![LinkedIn][linkedin-image]][linkedin-url]
-* ◾ [![upwork-image][upwork-image]][upwork-url]
-* ◾ [![dribbble-image][dribbble-image]][dribble-url]
+* ◾[![LinkedIn][linkedin-image]][linkedin-url] ◾
+* ◾ [![upwork-image][upwork-image]][upwork-url] ◾
+* ◾ [![dribbble-image][dribbble-image]][dribble-url]◾
 
 <!---
 omarashzeinhom/omarashzeinhom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
