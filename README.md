@@ -7,7 +7,7 @@
 - ◾ 👀 Im a full stack JS Developer◾
 - ◾ 📫 How to reach me https://omarabdelrahmanportfolio.netlify.app/ ◾
 
-
+---
 ### Tech Stack 💻
 
 * ![html-icon][html-icon] HTML5 
@@ -15,7 +15,7 @@
 * ![js-icon][js-icon] JavaScript 
 * ![markdown-icon][markdown-icon] MarkDown Language 
 
-
+---
 #### Contact Me 📞
 * [![LinkedIn][linkedin-image]][linkedin-url] 
 * [![upwork-image][upwork-image]][upwork-url] 
