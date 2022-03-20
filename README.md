@@ -10,10 +10,10 @@
 
 ### Tech Stack 💻
 
-- ◾ [html-icon][html-icon] HTML5 
-- ◾ [css-icon][css-icon] CSS3
-- ◾ [js-icon][js-icon] JavaScript 
-- ◾ [markdown-icon][markdown-icon] MarkDown Language 
+- ◾ ![html-icon][html-icon] HTML5 
+- ◾ ![css-icon][css-icon] CSS3
+- ◾ ![js-icon][js-icon] JavaScript 
+- ◾ ![markdown-icon][markdown-icon] MarkDown Language 
 
 
 #### Contact Me 📞
