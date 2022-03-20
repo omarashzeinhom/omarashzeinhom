@@ -1,11 +1,11 @@
-##🧑‍🦱 About Me 
+##🧑‍ 🦱 About Me 
 - 👋 Hi, I’m @omarashzeinhom
 - 👀 I’m interested in HTML5,CSS3,JS & Python
 - 🌱 I’m currently learning  Webdevelopment
 - 📫 How to reach me https://omarabdelrahmanportfolio.netlify.app/
 
 
-###Tech Stack 💻
+### Tech Stack 💻
 
 
 
