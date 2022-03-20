@@ -1,6 +1,6 @@
 # 🦱 About Me 
 
-[![intro-image][intro-image]]
+![intro-image][intro-image]]
 
 
 - 👋 Hi, I’m @omarashzeinhom
@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[intro-image]: img/gifintro.png
+[intro-image]: img/gifintro.gif
