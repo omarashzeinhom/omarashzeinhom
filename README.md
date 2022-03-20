@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[intro-image]: img/gifintro.gif
+[intro-image]: img/gifaboutme.gif
