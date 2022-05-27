@@ -12,7 +12,10 @@
 
  ![html-icon][html-icon] HTML5 ![css-icon][css-icon] CSS3
  ![js-icon][js-icon] JavaScript ![php-icon][php-icon]PHP
+ ![sass-icon][sass-icon] Sass ![nodejs-icon][nodejs-icon] NodeJs 
+
  ![markdown-icon][markdown-icon] MarkDown Language 
+
 
 
 
@@ -42,8 +45,15 @@ You can click the Preview link to take a look at your changes.
 [linkedin-image]: img/linkedin_11601.png
 [dribbble-image]: img/dribble_logo_icon_154493.png
 [upwork-image]:  img/upwork_94116.png
+<!-- Tech Stack icon images -->
+
 [css-icon]: img/icons8-css3-48.png
 [html-icon]: img/icons8-html-5-48.png
 [js-icon]: img/icons8-javascript-48.png
 [markdown-icon]: img/icons8-markdown-30.png
 [php-icon]: img/icons8-php-50.png
+[nodejs-icon]: icons8-nodejs-48.png
+[sass-icon]: img/icons8-sass-50.png
+<!-- icon images -->
+
+<a target="_blank" href="https://icons8.com/">Nodejs</a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
