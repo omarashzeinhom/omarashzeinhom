@@ -12,8 +12,7 @@
 
  ![html-icon][html-icon] HTML5 ![css-icon][css-icon] CSS3
  ![js-icon][js-icon] JavaScript ![php-icon][php-icon]PHP
- ![sass-icon][sass-icon] Sass ![nodejs-icon][nodejs-icon] NodeJs 
-
+ ![sass-icon][sass-icon] Sass ![nodejs-icon][nodejs-icon]NodeJs 
  ![markdown-icon][markdown-icon] MarkDown Language 
 
 
@@ -52,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 [js-icon]: img/icons8-javascript-48.png
 [markdown-icon]: img/icons8-markdown-30.png
 [php-icon]: img/icons8-php-50.png
-[nodejs-icon]: icons8-nodejs-48.png
+[nodejs-icon]: img/icons8-nodejs-48.png
 [sass-icon]: img/icons8-sass-50.png
 <!-- icon images -->
 
