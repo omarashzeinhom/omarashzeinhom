@@ -13,6 +13,7 @@
  ![html-icon][html-icon] HTML5 ![css-icon][css-icon] CSS3
  ![js-icon][js-icon] JavaScript ![php-icon][php-icon]PHP
  ![sass-icon][sass-icon] Sass ![nodejs-icon][nodejs-icon]NodeJs 
+ ![graphql-icon][ graphql-icon]Graph QL 
  ![markdown-icon][markdown-icon] MarkDown Language 
 
 
@@ -53,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 [php-icon]: img/icons8-php-50.png
 [nodejs-icon]: img/icons8-nodejs-48.png
 [sass-icon]: img/icons8-sass-50.png
+[graphql-icon]: img/icons8-graphql-48.png
 <!-- icon images -->
 
 <a target="_blank" href="https://icons8.com/">Nodejs</a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
