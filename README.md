@@ -13,7 +13,8 @@
  ![html-icon][html-icon] HTML5 ![css-icon][css-icon] CSS3
  ![js-icon][js-icon] JavaScript ![php-icon][php-icon]PHP
  ![sass-icon][sass-icon] Sass ![nodejs-icon][nodejs-icon]NodeJs 
- ![graphql-icon][ graphql-icon]Graph QL 
+ ![graphql-icon][ graphql-icon]Graph QL  ![wp-icon][wp-icon]WordPress Theme Development
+
  ![markdown-icon][markdown-icon] MarkDown Language 
 
 
@@ -55,6 +56,7 @@ You can click the Preview link to take a look at your changes.
 [nodejs-icon]: img/icons8-nodejs-48.png
 [sass-icon]: img/icons8-sass-50.png
 [graphql-icon]: img/icons8-graphql-48.png
+[wp-icon]:img/icons8-wordpress-100.png
 <!-- icon images -->
 
 <a target="_blank" href="https://icons8.com/">Nodejs</a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
