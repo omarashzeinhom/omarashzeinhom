@@ -45,3 +45,4 @@ You can click the Preview link to take a look at your changes.
 [html-icon]: img/icons8-html-5-48.png
 [js-icon]: img/icons8-javascript-48.png
 [markdown-icon]: img/icons8-markdown-30.png
+[php-icon]: img/icons8-php-50.png
