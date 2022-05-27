@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 [css-icon]: img/icons8-css3-48.png
 [html-icon]: img/icons8-html-5-48.png
 [js-icon]: img/icons8-javascript-48.png
-[markdown-icon]: img/icons8-markdown-30.png
+[markdown-icon]: img/icons8-markdown-64.png
 [php-icon]: img/icons8-php-64.png
 [nodejs-icon]: img/icons8-nodejs-48.png
 [sass-icon]: img/icons8-sass-50.png
