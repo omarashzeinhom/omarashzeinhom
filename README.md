@@ -5,7 +5,7 @@
 
 - ◾![gif-wave][gif-wave] Hi, I’m @omarashzeinhom From 🇪🇬 ◾
 - ◾ 👀 Im a full stack JS Developer◾
-- ◾ 📫 How to reach me https://omarashrafzeinhom.netlify.app/ ◾
+- ◾ 📫 How to reach me https://omarashrafzeinhom.vercel.app/ ◾
 
 ---
 ### Tech Stack 💻
