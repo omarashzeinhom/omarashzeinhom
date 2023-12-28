@@ -41,11 +41,9 @@ You can click the Preview link to take a look at your changes.
 <!-- urls -->
 [linkedin-url]: https://www.linkedin.com/in/omarzeinhom/
 [dribble-url]: https://dribbble.com/omarzeinhom
-[upwork-url]: https://www.upwork.com/freelancers/~016ff0a16ccc85d242
 <!-- icon images -->
 [linkedin-image]: img/linkedin_11601.png
 [dribbble-image]: img/dribble_logo_icon_154493.png
-[upwork-image]:  img/upwork_94116.png
 <!-- Tech Stack icon images -->
 
 [css-icon]: img/icons8-css3-48.png
