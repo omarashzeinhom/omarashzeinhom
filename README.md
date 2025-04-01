@@ -4,7 +4,7 @@
 
 
 - ◾![gif-wave][gif-wave] Hi, I’m @omarashzeinhom From 🇪🇬 ◾
-- ◾ 👀 Im a full stack JS Developer◾
+- ◾ 👀 Im a full stack WordPress Developer JS/TS/Php and Page Builder Editors◾
 - ◾ 📫 How to reach me Recruiters Only [![LinkedIn][linkedin-image]][linkedin-url] ◾
 
 ---
