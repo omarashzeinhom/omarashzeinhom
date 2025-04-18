@@ -12,49 +12,39 @@
 
 #### 🎨 FrontEnd / UI / UX
 
-![HTML5][html5-icon] HTML5  
-![CSS3][css-icon] CSS3  
-![JavaScript][js-icon] JavaScript  
-![TypeScript][typescript-icon] TypeScript  
-![React][react-icon] React  
-![Next.js][nextjs-icon] Next.js  
-![Tailwind CSS][tailwind-icon] Tailwind CSS  
-![Bootstrap][bootstrap-icon] Bootstrap  
-![Figma][figma-icon] Figma  
-![Blender][blender-icon] Blender
+| HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind CSS | Bootstrap | Figma | Blender |
+|:-----:|:----:|:----------:|:----------:|:-----:|:-------:|:-------------:|:---------:|:-----:|:-------:|
+| ![HTML5][html5-icon]   | ![CSS3][css-icon]   | ![JavaScript][js-icon]   | ![TypeScript][typescript-icon]   | ![React][react-icon]   | ![Next.js][nextjs-icon]    | ![Tailwind CSS][tailwind-icon]    | ![Bootstrap][bootstrap-icon]    | ![Figma][figma-icon]   | ![Blender][blender-icon]   |
 
 #### ⚙️ BackEnd
 
-![PHP][php-icon] PHP  
-![Node.js][nodejs-icon] Node.js  
-![Sanity][sanity-icon] Sanity  
-![WordPress][wp-icon] WordPress  
-![GraphQL][graphql-icon] GraphQL  
+| PHP | Node.js | Sanity | WordPress | GraphQL |
+|:---:|:-------:|:-----:|:---------:|:-------:|
+| ![PHP][php-icon]  | ![Node.js][nodejs-icon]  | ![Sanity][sanity-icon]  | ![WordPress][wp-icon]  | ![GraphQL][graphql-icon]  |
 
 **Databases**
 
-![MySQL][mysql-icon] MySQL  
-![PostgreSQL][postgresql-icon] PostgreSQL  
-![SQLite][sqlite-icon] SQLite  
-![Neo4j][neo4j-icon] Neo4j
+| MySQL | PostgreSQL | SQLite | Neo4j |
+|:----:|:----------:|:------:|:----:|
+| ![MySQL][mysql-icon]  | ![PostgreSQL][postgresql-icon]  | ![SQLite][sqlite-icon]  | ![Neo4j][neo4j-icon]  |
 
 #### 🔒 Security
 
-![Kali Linux][kali-icon] Kali Linux  
-![Burp Suite][burpsuite-icon] Burp Suite  
-![Wireshark][wireshark-icon] Wireshark
+| Kali Linux | Burp Suite | Wireshark |
+|:---------:|:---------:|:---------:|
+| ![Kali Linux][kali-icon]  | ![Burp Suite][burpsuite-icon]  | ![Wireshark][wireshark-icon]  |
 
 #### 🚀 DevOps & Systems
 
-![Firebase][firebase-icon] Firebase  
-![Grunt][grunt-icon] Grunt  
-![Gulp][gulp-icon] Gulp  
+| Firebase | Grunt | Gulp |
+|:-------:|:-----:|:----:|
+| ![Firebase][firebase-icon]  | ![Grunt][grunt-icon]  | ![Gulp][gulp-icon]  |
 
 **Operating Systems**
 
-![Debian][debian-icon] Debian  
-![Manjaro][manjaro-icon] Manjaro  
-![Arch Linux][arch-icon] Arch Linux
+| Debian | Manjaro | Arch Linux |
+|:------:|:-------:|:-----------:|
+| ![Debian][debian-icon]  | ![Manjaro][manjaro-icon]  | ![Arch Linux][arch-icon]  |
 
 ---
 
