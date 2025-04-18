@@ -1,61 +1,113 @@
-# 🦱 About Me 
+# 🦱 About Me
 
 ![intro-image][intro-image]
 
-
-- ◾![gif-wave][gif-wave] Hi, I’m @omarashzeinhom From 🇪🇬 ◾
-- ◾ 👀 Im a full stack WordPress Developer JS/TS/Php and Page Builder Editors◾
-- ◾ 📫 How to reach me Recruiters Only [![LinkedIn][linkedin-image]][linkedin-url] ◾
-
----
-### Tech Stack 💻
-
- ![html-icon][html-icon] HTML5 ![css-icon][css-icon] CSS3
- ![js-icon][js-icon] JavaScript ![php-icon][php-icon]PHP
- ![sass-icon][sass-icon] Sass ![nodejs-icon][nodejs-icon]NodeJs 
- ![graphql-icon][ graphql-icon]Graph QL  ![wp-icon][wp-icon]WordPress Theme Development
-
- ![markdown-icon][markdown-icon] MarkDown Language 
-
-
-
+- ◾![gif-wave][gif-wave] Hey, I’m @omarashzeinhom from 🇪🇬 ◾
+- ◾ 👨‍💻 Full-Stack WordPress Developer | JS/TS/PHP, Page Builders, and Headless CMS Enthusiast ◾
+- ◾ 📫 Connect with me on [![LinkedIn][linkedin-image]][linkedin-url] ◾
 
 ---
-#### Contact Me 📞
+
+### 🛠️ Tech Stack 💻
+
+#### 🎨 FrontEnd / UI / UX
+
+![HTML5][html5-icon] HTML5  
+![CSS3][css-icon] CSS3  
+![JavaScript][js-icon] JavaScript  
+![TypeScript][typescript-icon] TypeScript  
+![React][react-icon] React  
+![Next.js][nextjs-icon] Next.js  
+![Tailwind CSS][tailwind-icon] Tailwind CSS  
+![Bootstrap][bootstrap-icon] Bootstrap  
+![Figma][figma-icon] Figma  
+![Blender][blender-icon] Blender
+
+#### ⚙️ BackEnd
+
+![PHP][php-icon] PHP  
+![Node.js][nodejs-icon] Node.js  
+![Sanity][sanity-icon] Sanity  
+![WordPress][wp-icon] WordPress  
+![GraphQL][graphql-icon] GraphQL  
+
+**Databases**
+
+![MySQL][mysql-icon] MySQL  
+![PostgreSQL][postgresql-icon] PostgreSQL  
+![SQLite][sqlite-icon] SQLite  
+![Neo4j][neo4j-icon] Neo4j
+
+#### 🔒 Security
+
+![Kali Linux][kali-icon] Kali Linux  
+![Burp Suite][burpsuite-icon] Burp Suite  
+![Wireshark][wireshark-icon] Wireshark
+
+#### 🚀 DevOps & Systems
+
+![Firebase][firebase-icon] Firebase  
+![Grunt][grunt-icon] Grunt  
+![Gulp][gulp-icon] Gulp  
+
+**Operating Systems**
+
+![Debian][debian-icon] Debian  
+![Manjaro][manjaro-icon] Manjaro  
+![Arch Linux][arch-icon] Arch Linux
+
+---
+
+#### 📞 Contact
+
 [![LinkedIn][linkedin-image]][linkedin-url]
- 
 
+---
 
-<!---
-omarashzeinhom/omarashzeinhom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omarashzeinhom.omarashzeinhom)](https://github.com/omarashzeinhom)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
 [intro-image]: img/gifaboutme.gif
 [gif-wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif
-<!-- urls -->
+
+<!-- Social Links -->
 [linkedin-url]: https://www.linkedin.com/in/omarzeinhom/
-[dribble-url]: https://dribbble.com/omarzeinhom
-<!-- icon images -->
 [linkedin-image]: img/linkedin_11601.png
-[dribbble-image]: img/dribble_logo_icon_154493.png
-<!-- Tech Stack icon images -->
 
-[css-icon]: img/icons8-css3-48.png
-[html-icon]: img/icons8-html-5-48.png
-[js-icon]: img/icons8-javascript-48.png
-[markdown-icon]: img/icons8-markdown-64.png
-[php-icon]: img/icons8-php-64.png
-[nodejs-icon]: img/icons8-nodejs-48.png
-[sass-icon]: img/icons8-sass-50.png
-[graphql-icon]: img/icons8-graphql-48.png
-[wp-icon]:img/icons8-wordpress-50.png
-<!-- icon images -->
+<!-- Tech Stack Icons -->
+[html5-icon]: img/devicon--html5.png
+[css-icon]: img/catppuccin--css3.png
+[js-icon]: img/vscode-icons--file-type-js-official.png
+[typescript-icon]: img/devicon--typescript.png
+[react-icon]: img/devicon--reactbootstrap.png
+[nextjs-icon]: img/devicon--nextjs.png
+[tailwind-icon]: img/skill-icons--tailwindcss-dark.png
+[bootstrap-icon]: img/devicon--bootstrap.png
+[figma-icon]: img/skill-icons--figma-dark.png
+[blender-icon]: img/skill-icons--blender-dark.png
 
-<a target="_blank" href="https://icons8.com/">Nodejs</a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
-![](https://hit.yhype.me/github/profile?account_id=68185897)
+[php-icon]: img/devicon--php.png
+[nodejs-icon]: img/devicon--nodejs-wordmark.png
+[sanity-icon]: img/devicon--sanity.png
+[wp-icon]: img/skill-icons--wordpress.png
+[graphql-icon]: img/logos--graphql.png
+
+[mysql-icon]: img/logos--mysql.png
+[postgresql-icon]: img/devicon--postgresql-wordmark.png
+[sqlite-icon]: img/devicon--sqlite-wordmark.png
+[neo4j-icon]: img/logos--neo4j.png
+
+[kali-icon]: img/skill-icons--kali-dark.png
+[burpsuite-icon]: img/simple-icons--burpsuite.png
+[wireshark-icon]: img/simple-icons--wireshark.png
+
+[firebase-icon]: img/vscode-icons--file-type-light-firebasehosting.png
+[grunt-icon]: img/material-icon-theme--grunt.png
+[gulp-icon]: img/skill-icons--gulp.png
+
+[debian-icon]: img/devicon--debian-wordmark.png
+[manjaro-icon]: img/logos--manjaro.png
+[arch-icon]: img/skill-icons--arch-dark.png
+
+[markdown-icon]: img/skill-icons--markdown-light.png
+
