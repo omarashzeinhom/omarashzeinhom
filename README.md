@@ -1,103 +1,105 @@
-# 🦱 About Me
+<div align="center">
 
-![intro-image][intro-image]
+<img src="img/gifaboutme.gif" width="100%" alt="Omar Ash Zeinhom" />
 
-- ◾![gif-wave][gif-wave] Hey, I’m @omarashzeinhom from 🇪🇬 ◾
-- ◾ 👨‍💻 Full-Stack WordPress Developer | JS/TS/PHP, Page Builders, and Headless CMS Enthusiast ◾
-- ◾ 📫 Connect with me on [![LinkedIn][linkedin-image]][linkedin-url] ◾
+<br/>
 
----
+# OMAR ASH ZEINHOM
 
-### 🛠️ Tech Stack 💻
+<sub>+ FULL-STACK WORDPRESS DEVELOPER — CAIRO, EG +</sub>
 
-#### 🎨 FrontEnd / UI / UX
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE-0A0A0A?style=flat-square&labelColor=0A0A0A&color=07BABE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=07BABE)](https://www.linkedin.com/in/omarzeinhom/)
 
-| HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind CSS | Bootstrap | Figma | Blender |
-|:-----:|:----:|:----------:|:----------:|:-----:|:-------:|:-------------:|:---------:|:-----:|:-------:|
-| ![HTML5][html5-icon]   | ![CSS3][css-icon]   | ![JavaScript][js-icon]   | ![TypeScript][typescript-icon]   | ![React][react-icon]   | ![Next.js][nextjs-icon]    | ![Tailwind CSS][tailwind-icon]    | ![Bootstrap][bootstrap-icon]    | ![Figma][figma-icon]   | ![Blender][blender-icon]   |
-
-#### ⚙️ BackEnd
-
-| PHP | Node.js | Sanity | WordPress | GraphQL |
-|:---:|:-------:|:-----:|:---------:|:-------:|
-| ![PHP][php-icon]  | ![Node.js][nodejs-icon]  | ![Sanity][sanity-icon]  | ![WordPress][wp-icon]  | ![GraphQL][graphql-icon]  |
-
-**Databases**
-
-| MySQL | PostgreSQL | SQLite | Neo4j |
-|:----:|:----------:|:------:|:----:|
-| ![MySQL][mysql-icon]  | ![PostgreSQL][postgresql-icon]  | ![SQLite][sqlite-icon]  | ![Neo4j][neo4j-icon]  |
-
-#### 🔒 Security
-
-| Kali Linux | Burp Suite | Wireshark |
-|:---------:|:---------:|:---------:|
-| ![Kali Linux][kali-icon]  | ![Burp Suite][burpsuite-icon]  | ![Wireshark][wireshark-icon]  |
-
-#### 🚀 DevOps & Systems
-
-| Firebase | Grunt | Gulp |
-|:-------:|:-----:|:----:|
-| ![Firebase][firebase-icon]  | ![Grunt][grunt-icon]  | ![Gulp][gulp-icon]  |
-
-**Operating Systems**
-
-| Debian | Manjaro | Arch Linux |
-|:------:|:-------:|:-----------:|
-| ![Debian][debian-icon]  | ![Manjaro][manjaro-icon]  | ![Arch Linux][arch-icon]  |
+</div>
 
 ---
 
-#### 📞 Contact
+### + ABOUT +
 
-[![LinkedIn][linkedin-image]][linkedin-url]
+```
+$ whoami
+> full-stack developer — js / ts / php
+> page builders, headless cms, wordpress at scale
+> based in cairo, eg
+```
 
 ---
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omarashzeinhom.omarashzeinhom)](https://github.com/omarashzeinhom)
+### + FRONTEND +
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[intro-image]: img/gifaboutme.gif
-[gif-wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=07BABE)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=07BABE)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0A0A0A?style=flat-square&logo=javascript&logoColor=07BABE)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0A0A0A?style=flat-square&logo=typescript&logoColor=07BABE)
+![React](https://img.shields.io/badge/REACT-0A0A0A?style=flat-square&logo=react&logoColor=07BABE)
+![Next.js](https://img.shields.io/badge/NEXT.JS-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=07BABE)
+![Astro](https://img.shields.io/badge/ASTRO-0A0A0A?style=flat-square&logo=astro&logoColor=07BABE)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=07BABE)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0A0A0A?style=flat-square&logo=bootstrap&logoColor=07BABE)
+![Figma](https://img.shields.io/badge/FIGMA-0A0A0A?style=flat-square&logo=figma&logoColor=07BABE)
+![Blender](https://img.shields.io/badge/BLENDER-0A0A0A?style=flat-square&logo=blender&logoColor=07BABE)
 
-<!-- Social Links -->
-[linkedin-url]: https://www.linkedin.com/in/omarzeinhom/
-[linkedin-image]: img/linkedin_11601.png
+### + BACKEND +
 
-<!-- Tech Stack Icons -->
-[html5-icon]: img/devicon--html5.png
-[css-icon]: img/catppuccin--css3.png
-[js-icon]: img/vscode-icons--file-type-js-official.png
-[typescript-icon]: img/devicon--typescript.png
-[react-icon]: img/devicon--reactbootstrap.png
-[nextjs-icon]: img/devicon--nextjs.png
-[tailwind-icon]: img/skill-icons--tailwindcss-dark.png
-[bootstrap-icon]: img/devicon--bootstrap.png
-[figma-icon]: img/skill-icons--figma-dark.png
-[blender-icon]: img/skill-icons--blender-dark.png
+![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=07BABE)
+![Laravel](https://img.shields.io/badge/LARAVEL-0A0A0A?style=flat-square&logo=laravel&logoColor=07BABE)
+![Node.js](https://img.shields.io/badge/NODE.JS-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=07BABE)
+![Sanity](https://img.shields.io/badge/SANITY-0A0A0A?style=flat-square&logo=sanity&logoColor=07BABE)
+![WordPress](https://img.shields.io/badge/WORDPRESS-0A0A0A?style=flat-square&logo=wordpress&logoColor=07BABE)
+![GraphQL](https://img.shields.io/badge/GRAPHQL-0A0A0A?style=flat-square&logo=graphql&logoColor=07BABE)
 
-[php-icon]: img/devicon--php.png
-[nodejs-icon]: img/devicon--nodejs-wordmark.png
-[sanity-icon]: img/devicon--sanity.png
-[wp-icon]: img/skill-icons--wordpress.png
-[graphql-icon]: img/logos--graphql.png
+### + CROSS-PLATFORM +
 
-[mysql-icon]: img/logos--mysql.png
-[postgresql-icon]: img/devicon--postgresql-wordmark.png
-[sqlite-icon]: img/devicon--sqlite-wordmark.png
-[neo4j-icon]: img/logos--neo4j.png
+![Tauri](https://img.shields.io/badge/TAURI-0A0A0A?style=flat-square&logo=tauri&logoColor=07BABE)
+![Ionic](https://img.shields.io/badge/IONIC-0A0A0A?style=flat-square&logo=ionic&logoColor=07BABE)
 
-[kali-icon]: img/skill-icons--kali-dark.png
-[burpsuite-icon]: img/simple-icons--burpsuite.png
-[wireshark-icon]: img/simple-icons--wireshark.png
+### + DATABASES +
 
-[firebase-icon]: img/vscode-icons--file-type-light-firebasehosting.png
-[grunt-icon]: img/material-icon-theme--grunt.png
-[gulp-icon]: img/skill-icons--gulp.png
+![MySQL](https://img.shields.io/badge/MYSQL-0A0A0A?style=flat-square&logo=mysql&logoColor=07BABE)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=07BABE)
+![SQLite](https://img.shields.io/badge/SQLITE-0A0A0A?style=flat-square&logo=sqlite&logoColor=07BABE)
+![Neo4j](https://img.shields.io/badge/NEO4J-0A0A0A?style=flat-square&logo=neo4j&logoColor=07BABE)
 
-[debian-icon]: img/devicon--debian-wordmark.png
-[manjaro-icon]: img/logos--manjaro.png
-[arch-icon]: img/skill-icons--arch-dark.png
+### + SECURITY +
 
-[markdown-icon]: img/skill-icons--markdown-light.png
+![Kali Linux](https://img.shields.io/badge/KALI_LINUX-0A0A0A?style=flat-square&logo=kalilinux&logoColor=07BABE)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-0A0A0A?style=flat-square&logo=wireshark&logoColor=07BABE)
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-0A0A0A?style=flat-square&logoColor=07BABE)
 
+### + DEVOPS / SYSTEMS +
+
+![Firebase](https://img.shields.io/badge/FIREBASE-0A0A0A?style=flat-square&logo=firebase&logoColor=07BABE)
+![Docker](https://img.shields.io/badge/DOCKER-0A0A0A?style=flat-square&logo=docker&logoColor=07BABE)
+![Grunt](https://img.shields.io/badge/GRUNT-0A0A0A?style=flat-square&logo=grunt&logoColor=07BABE)
+![Gulp](https://img.shields.io/badge/GULP-0A0A0A?style=flat-square&logo=gulp&logoColor=07BABE)
+![Debian](https://img.shields.io/badge/DEBIAN-0A0A0A?style=flat-square&logo=debian&logoColor=07BABE)
+![Manjaro](https://img.shields.io/badge/MANJARO-0A0A0A?style=flat-square&logo=manjaro&logoColor=07BABE)
+![Arch Linux](https://img.shields.io/badge/ARCH_LINUX-0A0A0A?style=flat-square&logo=archlinux&logoColor=07BABE)
+
+---
+
+### + STATS +
+
+<img src="https://github-readme-stats.vercel.app/api?username=omarashzeinhom&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=07BABE&icon_color=07BABE&text_color=999999" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarashzeinhom&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=07BABE&text_color=999999" width="48%" />
+
+---
+
+<div align="center">
+
+### + CONTACT +
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=07BABE)](https://www.linkedin.com/in/omarzeinhom/)
+[![Stack Overflow](https://img.shields.io/badge/STACK_OVERFLOW-0A0A0A?style=flat-square&logo=stackoverflow&logoColor=07BABE)](https://stackoverflow.com/users/19302546/agws)
+[![Dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?style=flat-square&logo=devdotto&logoColor=07BABE)](https://dev.to/agws)
+
+### + AGWS — AND GO WEB SOLUTIONS +
+
+[![Website](https://img.shields.io/badge/WEBSITE-0A0A0A?style=flat-square&logo=googlechrome&logoColor=07BABE)](https://www.andgowebsolutions.com/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-0A0A0A?style=flat-square&logo=youtube&logoColor=07BABE)](https://www.youtube.com/@andgowebsolutions)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=flat-square&logo=instagram&logoColor=07BABE)](https://www.instagram.com/andgowebsolutions)
+
+<sub>[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omarashzeinhom.omarashzeinhom&color=0A0A0A)](https://github.com/omarashzeinhom)</sub>
+
+</div>
