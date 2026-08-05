@@ -79,13 +79,6 @@ $ whoami
 
 ---
 
-### + STATS +
-
-<img src="https://github-readme-stats.vercel.app/api?username=omarashzeinhom&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=07BABE&icon_color=07BABE&text_color=999999" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarashzeinhom&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=07BABE&text_color=999999" width="48%" />
-
----
-
 <div align="center">
 
 ### + CONTACT +
